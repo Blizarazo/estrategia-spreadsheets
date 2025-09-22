@@ -8,14 +8,24 @@ Solución diseñada para contadores, asistentes y emprendedores que gestionan m�
 
 ⚙️ Características
 ✅Registro remoto de ingresos, egresos, ventas y compras
+
 ✅Importación automática de datos a hoja de consolidación
+
 ✅Generación de reportes clave:
-✅Estados financieros
-✅Indicadores financieros
-✅Estados de cartera
-✅Estados de inventario
-✅Flujos de efectivo
+
+  🔛Estados financieros
+
+  🔛Indicadores financieros
+
+  🔛Estados de cartera
+
+  🔛Estados de inventario
+
+  🔛Flujos de efectivo
+
 ✅Dashboard personalizado
+
 ✅Visualización clara y trazable de cada dato registrado
 
+✅Generar documento soporte en PDF, a partir de las ventas registradas para clientes que soliciten el envio por email, o a su WhatsApp
 
