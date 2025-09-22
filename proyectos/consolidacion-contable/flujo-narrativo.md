@@ -4,6 +4,8 @@ La solución parte de un principio simple: los datos deben registrarse donde ocu
 
 Luego, mediante fórmulas integradas en la hoja de consolidación, los datos se agrupan automáticamente desde los registros individuales. No se requiere programación: la lógica está construida con funciones que importan, ordenan y calculan en tiempo real. Esto permite generar estados financieros, indicadores, reportes de cartera e inventarios sin intervención manual, manteniendo trazabilidad y claridad.
 
+En caso de requerirse tambien se crea la opción de menu, que permite mediante script, Generar documento soporte en PDF, a partir de las ventas registradas para clientes que soliciten el envio por email, o a su WhatsApp
+
 Cada componente está pensado para acompañar:
 
 👌Las fórmulas no solo calculan: previenen errores.
