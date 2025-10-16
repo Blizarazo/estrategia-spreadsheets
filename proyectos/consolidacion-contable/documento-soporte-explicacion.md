@@ -1,4 +1,5 @@
 Este script genera un documento soporte a partir de los datos marcados al momento de registrar un movimiento de venta.
+
 ✔️El usuario registra en la hoja de movimientos: fecha, Nombre cliente, registra uno a uno los productos vendidos, las cantidades y el valor total.
 
 ✔️Si ese cliente solicita documento soporte da check en la opcion de documento soporte
