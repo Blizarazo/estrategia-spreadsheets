@@ -10,6 +10,7 @@ Solución diseñada para contadores, asistentes y emprendedores que gestionan m�
 ✔️Transforma hojas de cálculo en herramientas estratégicas, trazables y visuales.
 
 ⚙️ Características
+
 ✅Registro remoto de ingresos, egresos, ventas y compras
 
 ✅Importación automática de datos a hoja de consolidación
