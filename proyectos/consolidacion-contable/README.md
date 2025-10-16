@@ -2,8 +2,11 @@
 Solución diseñada para contadores, asistentes y emprendedores que gestionan múltiples clientes sin necesidad de desplazamientos físicos. Permite registrar transacciones desde el lugar donde ocurren —ingresos, egresos, ventas, compras— y consolidarlas automáticamente en estados financieros listos para revisión.
 
 🎯 ¿Qué resuelve?
+
 ✔️Evita duplicidad de tareas y desplazamientos innecesarios.
+
 ✔️Facilita el trabajo colaborativo entre quien registra y quien analiza.
+
 ✔️Transforma hojas de cálculo en herramientas estratégicas, trazables y visuales.
 
 ⚙️ Características
