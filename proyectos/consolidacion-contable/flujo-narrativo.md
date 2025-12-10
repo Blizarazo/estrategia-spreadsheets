@@ -16,16 +16,21 @@ Cada componente está pensado para acompañar:
 
 👌Entendemos que no quieres ser contador, y esta herramienta te permite tener el control financiero y la claridad que necesitas, sin la complejidad de un software contable..
 
-### 🧰 Traduciendo la Jerga Técnica: De Función a Beneficio
+### 🧰 Traduciendo la Jerga Técnica: De Función a Beneficio (El Cerebro de la Hoja)
 
 Para nuestro público (emprendedores, freelancers y microempresarios), la función de la hoja de cálculo no es un reto técnico, sino una **promesa de automatización y claridad**.
 
-| Función Protagonista | Nombre Técnico Simplificado | La Promesa para el Cliente (Beneficio) |
+| Categoría | Función Clave | La Promesa para el Cliente (Beneficio Directo) |
 | :--- | :--- | :--- |
-| **`IMPORTRANGE`** | El Conector de Datos | **La Colaboración Automática.** Tú o tu equipo registran los movimientos, y la hoja central los analiza al instante. **Sin copiar y pegar.** |
-| **`QUERY`** | El Filtro Inteligente | **El Inspector de Datos.** No te abruma. Solo te muestra lo que es relevante (ventas por mes, gastos por categoría), ordenado y listo para tomar decisiones. |
-| **`ARRAYFORMULA`** | El Replicador Silencioso | **La Eficiencia Escalable.** Una fórmula simple trabaja automáticamente en todas las filas nuevas. Olvídate de arrastrar celdas o errores manuales. |
-| **`IFERROR, ISBLANK...`** | Los Guardianes de la Claridad | **El Antierror Automático.** Valida y limpia los datos. Si te equivocas al registrar, la hoja lo ignora o te avisa, manteniendo tus reportes siempre claros. |
+| **Conexión y Base** | **`IMPORTRANGE`** | **La Colaboración Automática.** Tú o tu equipo registran, y la hoja central analiza al instante. **Sin copiar y pegar.** |
+| | **`QUERY`** | **El Inspector de Datos.** Solo te muestra lo que es relevante (ventas por mes, gastos por categoría), ordenado y listo para tomar decisiones. |
+| | **`ARRAYFORMULA`** | **La Eficiencia Escalable.** Una fórmula trabaja automáticamente en todas las filas. **Se acabó el arrastrar celdas y los errores manuales.** |
+| | **`IFERROR, ISBLANK...`** | **El Antierror Automático.** Valida y limpia los datos. Si te equivocas al registrar, la hoja lo ignora o te avisa, manteniendo tus reportes claros. |
+| **Estructura y Forma** | **`VSTACK`** | **El Compilador de Datos.** Agrupa todos tus registros (de varias sedes o reportes) en una única lista maestra, sin esfuerzo, para analizarlo todo junto. |
+| | **`TRANSPOSE`** | **El Giro de Perspectiva.** Permite reorganizar la información instantáneamente. Útil para ver, por ejemplo, los productos en filas o las fechas en columnas, según lo necesites. |
+| **Cálculo y Análisis** | **`SUMIFS`** | **El Contador Condicional.** Te dice exactamente: "¿Cuánto vendiste SÓLO de ese producto?" o "¿Cuánto gastaste SÓLO en publicidad este mes?". |
+| | **`AVERAGEIFS`** | **El Detector de Patrones.** Calcula promedios bajo condiciones. Te ayuda a preguntar: "¿Cuál es el costo promedio de mis insumos cuando las ventas suben?". |
+| **Lógica Avanzada** | **`LET`** | **El Estratega Interno.** Simplifica el cerebro de las fórmulas más complejas para que, aunque sean muy potentes, sean fáciles de mantener y entender. |
 
 🧭 IMPORTRANGE: el puente entre mundos
 
