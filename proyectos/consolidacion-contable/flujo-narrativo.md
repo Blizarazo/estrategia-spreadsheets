@@ -1,10 +1,10 @@
-Este proyecto nace de una necesidad cotidiana: evitar desplazamientos innecesarios, reducir la duplicidad de tareas y facilitar la toma de decisiones financieras con información confiable y oportuna.
+Este proyecto nace de una necesidad cotidiana: evitar desplazamientos innecesarios, reducir la duplicidad de tareas y facilitar la toma de decisiones **financieras** con información confiable y oportuna.
 
 La solución parte de un principio simple: los datos deben registrarse donde ocurren. Una persona desde casa, desde el punto de venta o desde la oficina puede ingresar ingresos, egresos, ventas o compras en una hoja de registro. No necesita saber contabilidad, solo necesita claridad.
 
-Luego, mediante fórmulas integradas en la hoja de consolidación, los datos se agrupan automáticamente desde los registros individuales. No se requiere programación: la lógica está construida con funciones que importan, ordenan y calculan en tiempo real. Esto permite generar reportes de rentabilidad, indicadores clave, reportes de cartera e inventarios sin intervención manual, manteniendo trazabilidad y claridad.
+Luego, mediante fórmulas integradas en la hoja de consolidación, los datos se agrupan automáticamente desde los registros individuales. No se requiere programación: la lógica está construida con funciones que importan, ordenan y calculan en tiempo real. Esto permite generar **reportes de rentabilidad**, indicadores clave, reportes de cartera e inventarios sin intervención manual, manteniendo trazabilidad y claridad.
 
-En caso de requerirse, también se crea la opción de Menú de Automatización. Esto permite, mediante un script de bajo código, generar rápidamente el documento soporte (o Factura Simplificada) en PDF, listo para enviar a clientes por correo o WhatsApp. Esto te facilita formalizar ventas en segundos sin salir de la hoja de cálculo.
+En caso de requerirse, también se crea la opción de **Menú de Automatización.** Esto permite, mediante un script de bajo código, generar rápidamente el **documento soporte** (o **Factura Simplificada**) en PDF, listo para enviar a clientes por correo o WhatsApp. **Esto te facilita formalizar ventas en segundos sin salir de la hoja de cálculo.**
 
 Cada componente está pensado para acompañar:
 
@@ -12,7 +12,7 @@ Cada componente está pensado para acompañar:
 
 👌Las visualizaciones no solo muestran: revelan patrones.
 
-👌La estructura modular permite adaptar la solución a distintos contextos: desde un emprendimiento familiar con una sola hoja de registro hasta una empresa con múltiples sedes o puntos de venta. Es como tener bloques de LEGO: puedes empezar con lo básico y añadir más funcionalidades a medida que tu negocio crece.
+👌La estructura modular permite adaptar la solución a distintos contextos: desde un emprendimiento familiar con una sola hoja de registro hasta una empresa con múltiples sedes o puntos de venta. **Es como tener bloques de LEGO: puedes empezar con lo básico y añadir más funcionalidades a medida que tu negocio crece.**
 
 👌Entendemos que no quieres ser contador, y esta herramienta te permite tener el control financiero y la claridad que necesitas, sin la complejidad de un software contable..
 
