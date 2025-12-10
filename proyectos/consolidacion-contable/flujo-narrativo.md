@@ -4,7 +4,7 @@ La solución parte de un principio simple: los datos deben registrarse donde ocu
 
 Luego, mediante fórmulas integradas en la hoja de consolidación, los datos se agrupan automáticamente desde los registros individuales. No se requiere programación: la lógica está construida con funciones que importan, ordenan y calculan en tiempo real. Esto permite generar **reportes de rentabilidad**, indicadores clave, reportes de cartera e inventarios sin intervención manual, manteniendo trazabilidad y claridad.
 
-En caso de requerirse, también se crea la opción de **Menú de Automatización.** Esto permite, mediante un script de bajo código, generar rápidamente el **documento soporte** (o **Factura Simplificada**) en PDF, listo para enviar a clientes por correo o WhatsApp. **Esto te facilita formalizar ventas en segundos sin salir de la hoja de cálculo.**
+En caso de requerirse, la solución incluye un **Menú de Automatización** especial. Este script genera un **documento soporte legalmente válido** (o **Factura Simplificada**) en PDF, a partir de tus ventas registradas. Ya no tendrás que hacer documentos en Word: simplemente **marcas la casilla** en tu registro de ventas, y la solución hace el resto.
 
 Cada componente está pensado para acompañar:
 
