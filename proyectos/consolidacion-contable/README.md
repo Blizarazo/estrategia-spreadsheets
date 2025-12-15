@@ -41,4 +41,5 @@ Generación instantánea de reportes clave para la toma de decisiones:
 ### 💡 Nuestro Diferenciador
 
 No es solo una hoja de cálculo; es un **programa** (solución) de gestión modular que te libera de la carga operativa para que te enfoques en el **análisis** y la **estrategia**.
+**Añadimos acompañamiento porque sabemos que el inicio es clave:** Garantizamos que tu información se registre correctamente desde el primer día, ofreciendo **auditoría de datos y soporte** para que uses la herramienta con total confianza y obtengas reportes 100% confiables.
 
