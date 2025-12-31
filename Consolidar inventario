@@ -1,0 +1,9 @@
+# Sistema de Consolidación de Inventario - Apps Script
+
+Este proyecto automatiza la gestión de inventarios en Google Sheets, permitiendo la consolidación masiva de datos entre diferentes libros contables.
+
+### Características Principales:
+- **Automatización:** Creación de semanas con arrastre de saldos.
+- **Integridad:** Limpieza automática de espacios y normalización de productos.
+- **Auditoría:** Localización exacta de registros por número de fila.
+- **UX:** Menús personalizados e interfaz interactiva.
